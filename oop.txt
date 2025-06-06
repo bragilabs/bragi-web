@@ -1,0 +1,23 @@
+parent Levande
+bita
+äta
+gå
+pissa
+ljud
+lukta
+lyssna
+
+Hund
+luktar bättre
+bita hårdare
+Hör bättre
+Bättre förmåga att gräva utan hjälpmedel
+
+Människa
+Svettas()
+Filosifera()
+Smartare
+Finmotorik
+Högre tolerans till kakao
+Kommunikation
+Laga mat
